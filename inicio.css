@@ -1,0 +1,12 @@
+@charset "UTF-8"
+
+@import url(http://fonts.googleapis.com/css?family=Titillium+web);
+
+@font-face {
+   font-family: 'FonteLogo';
+   src: url("../_fonts/bubblegum-sans-regular.off");
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ddd; /* azul escuro */
+}
